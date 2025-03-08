@@ -13,7 +13,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '文档', link: '/src/个人/建立网站的初衷' }
     ],
-    logo: '/public/logo.svg',
+    logo: 'logo.svg',
     search: {
       provider: 'local'
     },
